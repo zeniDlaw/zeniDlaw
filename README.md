@@ -14,9 +14,9 @@ I am learning software development in C and working on various projects related 
 
 ### Projects
 Here are some of the projects I have worked on:
-- **[Project 1](#)** - A brief description of project 1.
-- **[Project 2](#)** - A brief description of project 2.
-- **[Project 3](#)** - A brief description of project 3.
+- **[LIBFT](#)** - Here We have a task of building our own first Library which will be helpfull throught the 42 Curriculum
+- **[FT_PRINTF](#)** - A project which mimics the original printf function from the Standard input output Library
+- **[GETNEXTLINE](#)** - In this project the aim is to create a function which reads a FD or a text file line by line.
 
 ### Skills
 - **Languages**: C
