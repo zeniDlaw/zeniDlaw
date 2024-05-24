@@ -1,5 +1,8 @@
 # Hi there, I'm Inez Chettri! 👋
 
+
+![Lofi Girl](assests/images/lofi.gif)
+
 ### About Me
 The sense of freedom is what drives me. I am currently a student at 42 Wolfsburg and have been living in Germany since 2023. I am passionate about software development and am actively learning and growing my skills in this field.
 
