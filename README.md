@@ -2,6 +2,7 @@
 
 
 ![Lofi Girl](assests/images/lofi.gif)
+*Gif by [Kevin Farias](https://kevinfarias.com)*
 
 ### About Me
 The sense of freedom is what drives me. I am currently a student at 42 Wolfsburg and have been living in Germany since 2023. I am passionate about software development and am actively learning and growing my skills in this field.
@@ -20,11 +21,16 @@ Here are some of the projects I have worked on:
 - **[SO_LONG](https://github.com/zeniDlaw/so_long)** - This project is a small 2D game with minilibx. where we will learn about textures, sprites and tiles.
 - **[PIPEX](https://github.com/zeniDlaw/pipex)** - This project aims to deepen our understanding of the two concepts that we already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the 42 cursus.
 
+### Skills
 - **Languages**: C, Python
 - **Tools**: Git, Makefile, Shell scripting
 
 ### Contact
 Feel free to reach out to me on GitHub if you want to collaborate on a project or just say hi!
+
+### Follow Me
+To see what else I indulge in except coding take a look:
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/_ineezz)
 
 <!--
 **zeniDlaw/zeniDlaw** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
