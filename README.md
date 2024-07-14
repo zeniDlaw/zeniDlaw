@@ -29,9 +29,7 @@ Here are some of the projects I have worked on:
 Feel free to reach out to me on GitHub if you want to collaborate on a project or just say hi!
 
 ### Follow Me
-To see what else I indulge in except coding take a look:
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/_ineezz)
+<a href="https://www.instagram.com/_ineezz" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
+</a>
 
-<!--
-**zeniDlaw/zeniDlaw** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
