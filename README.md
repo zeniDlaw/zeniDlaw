@@ -14,12 +14,13 @@ I am learning software development in C and working on various projects related 
 
 ### Projects
 Here are some of the projects I have worked on:
-- **[LIBFT](#)** - Here We have a task of building our own first Library which will be helpfull throught the 42 Curriculum
-- **[FT_PRINTF](#)** - A project which mimics the original printf function from the Standard input output Library
-- **[GETNEXTLINE](#)** - In this project the aim is to create a function which reads a FD or a text file line by line.
+- **[LIBFT](https://github.com/zeniDlaw/libft)** - Here We have a task of building our own first Library which will be helpfull throught the 42 Curriculum
+- **[FT_PRINTF](https://github.com/zeniDlaw/ft_printf)** - A project which mimics the original printf function from the Standard input output Library
+- **[GETNEXTLINE](https://github.com/zeniDlaw/getnextline)** - In this project the aim is to create a function which reads a FD or a text file line by line.
+- **[SO_LONG](https://github.com/zeniDlaw/so_long)** - This project is a small 2D game with minilibx. where we will learn about textures, sprites and tiles.
+- **[PIPEX](https://github.com/zeniDlaw/pipex)** - This project aims to deepen our understanding of the two concepts that we already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the 42 cursus.
 
-### Skills
-- **Languages**: C
+- **Languages**: C, Python
 - **Tools**: Git, Makefile, Shell scripting
 
 ### Contact
