@@ -23,7 +23,7 @@ Here are some of the projects I have worked on:
 
 ## 🌐 **Languages Used in My Projects**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zeniDlaw)
 
 ### **Skills**
 - **Languages**: C, Python
