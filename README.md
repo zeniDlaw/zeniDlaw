@@ -21,9 +21,9 @@ Here are some of the projects I have worked on:
 - **[SO_LONG](https://github.com/zeniDlaw/so_long)** - This project is a small 2D game with minilibx. where we will learn about textures, sprites and tiles.
 - **[PIPEX](https://github.com/zeniDlaw/pipex)** - This project aims to deepen our understanding of the two concepts that we already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the 42 cursus.
 
-## 📊 **Languages Used in My Projects (Pie Chart)**
+## 🌐 **Languages Used in My Projects**
 
-![Languages](https://github-stats-alpha.vercel.app/api?username=zeniDlaw&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME)
 
 ### **Skills**
 - **Languages**: C, Python
