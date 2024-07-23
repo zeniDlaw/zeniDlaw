@@ -1,4 +1,4 @@
-# Hi there, I'm Inez Chettri! 👋
+# Greetings, I'm Inez! 👋
 
 
 ![Lofi Girl](assests/images/lofi.gif)
