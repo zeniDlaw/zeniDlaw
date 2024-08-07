@@ -5,7 +5,11 @@
 *Gif by [Kevin Farias](https://kevinfarias.com)*
 
 ### **About Me**
-The sense of freedom is what drives me. I am currently a student at 42 Wolfsburg and have been living in Germany since 2023. I am passionate about software development and am actively learning and growing my skills in this field.
+The sense of freedom is what drives me. I am currently a student at 42 Wolfsburg and have been living in Germany since 2023. I am passionate about software development, servers, systems, and data. Actively learning and growing my skills in these fields, I am always eager to tackle new challenges and explore innovative solutions.
+
+Beyond the world of tech, I have a keen interest in sports. I practice combat sports as a hobby, which not only keeps me fit but also instills discipline and resilience. Cooking is another passion of mine, and I find it to be a creative and therapeutic outlet. Music is my constant companion, providing a soundtrack to my life and keeping me sane through all the ups and downs.
+
+Feel free to check out my repositories and projects, and don't hesitate to connect with me!
 
 ### **Current Focus**
 I am learning software development in C and working on various projects related to the 42 core. My journey at 42 Wolfsburg has been incredibly enriching, pushing me to think critically and solve complex problems.
